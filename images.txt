@@ -1,6 +1,7 @@
 nginx
 koishijs/koishi:latest
 whyour/qinglong:latest
+homeassistant/home-assistant:2024.3
 #支持私库
 
 #支持指定架构
