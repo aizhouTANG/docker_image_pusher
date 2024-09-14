@@ -3,6 +3,7 @@ koishijs/koishi:latest
 whyour/qinglong:latest
 homeassistant/home-assistant:2024.3
 lscr.io/linuxserver/jackett:latest
+flavioaiello/flaresolverr:latest
 #支持私库
 
 #支持指定架构
