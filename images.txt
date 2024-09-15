@@ -1,4 +1,5 @@
 hsuyelin/nas-tools
+docker.io/p3terx/aria2-pro:latest
 #支持私库
 
 #支持指定架构
